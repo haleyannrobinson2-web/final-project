@@ -1,6 +1,6 @@
 FastAPI Task Management System
 
-This project is a simple backend built using FastAPI.
+My project is a simple backend built using FastAPI.
 
 It allows users to:
 - Create tasks
